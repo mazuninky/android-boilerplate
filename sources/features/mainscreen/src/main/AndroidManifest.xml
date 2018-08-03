@@ -1,0 +1,9 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="my.company.app" >
+
+    <application>
+        <activity
+            android:name="my.company.app.MainActivity"
+            android:screenOrientation="portrait" />
+    </application>
+</manifest>
